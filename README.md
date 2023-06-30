@@ -1,1 +1,1 @@
-My firts readme updated
+My firt readme updated
